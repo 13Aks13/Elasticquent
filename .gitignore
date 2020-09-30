@@ -1,0 +1,13 @@
+/bower_assets
+/node_modules
+/vendor
+Homestead.yaml
+Homestead.json
+package-lock.json
+npm-debug.log
+yarn-error.log
+/.vagrant
+.env
+.DS_Store
+.idea
+.phpunit.result.cache
